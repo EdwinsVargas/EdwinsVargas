@@ -1,7 +1,9 @@
 # ⚡ Edwins Jose Vargas Vitora | Full Stack Developer
 
 <div align="center">
-  <img src="[https://www.facebook.com/photo/?fbid=107269818436787](https://scontent.fbrm1-1.fna.fbcdn.net/v/t39.30808-6/472124322_614489624381468_1808392666218429297_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=b895b5&_nc_ohc=_wZoA120moAQ7kNvwElbKAl&_nc_oc=AdpEBcr7mcVt3F0LGPUskEaiXUC1Wys10SOaln-yCe9jMSsCmj6IqOmGkTvvOn0_1LI&_nc_zt=23&_nc_ht=scontent.fbrm1-1.fna&_nc_gid=3SoTlfgjT2vkk_q1aZGQEQ&_nc_ss=8&oh=00_AfxWRCSXABZNFmeQr6jSg2LJ2AX7mF85Yib21E0ygx_0UQ&oe=69C0A6FB)" width="100%" />
+  <div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQH8-d0RhWHlVA/profile-displaybackgroundimage-shrink_350_1400/B4EZXKBuBaHMAc-/0/1742851204013?e=1775692800&v=beta&t=x1L3Rm54MvDUqQBgyVu3_TXBiISQebvJ2fEf9oqmoSc" width="100%" alt="Banner Edwins Vargas" style="border-radius: 8px;" />
+</div>
 </div>
 
 ### 🚀 Sobre mí
