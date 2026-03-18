@@ -1,7 +1,7 @@
 # ⚡ Edwins Jose Vargas Vitora | Full Stack Developer
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Edwins%20Vargas&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://www.facebook.com/photo/?fbid=107269818436787" width="100%" />
 </div>
 
 ### 🚀 Sobre mí
